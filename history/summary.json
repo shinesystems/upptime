@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinesystems.co.uk.ico",
     "slug": "shine-systems-web-server",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "1.65%",
+    "uptimeDay": "1.65%",
+    "uptimeWeek": "1.65%",
+    "uptimeMonth": "1.65%",
+    "uptimeYear": "1.65%",
     "time": 55,
     "timeDay": 55,
     "timeWeek": 55,
     "timeMonth": 55,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2026-03-30": 0
+      "2026-03-30": 1
     }
   },
   {
