@@ -5,18 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: Shine Systems Web Server
     url: https://www.shinesystems.co.uk
-  - name: Shine Systems From California
+  - name: Shine Systems From North America
     url: https://www.shinesystems.co.uk
     type: globalping
-    location: california
-  - name: Shine Systems From Berlin
+    location: north america
+  - name: Shine Systems From Europe
     url: https://www.shinesystems.co.uk
     type: globalping
-    location: berlin
-  - name: Shine Systems From Singapore
+    location: europe
+  - name: Shine Systems From Asia
     url: https://www.shinesystems.co.uk
     type: globalping
-    location: singapore
+    location: asia
+  - name: Shine Systems From Africa
+    url: https://www.shinesystems.co.uk
+    type: globalping
+    location: africa
   - name: Hosted Email Server
     url: https://mail.shinesystems.co.uk
   - name: Email Filtering Appliance
