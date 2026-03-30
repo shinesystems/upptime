@@ -37,6 +37,18 @@ sites:
     url: https://total-precision.co.uk    
   - name: Villa Vermonte Website
     url: https://www.villavermonte.com    
+  - name: RNARS Website
+    url: https://www.rnars.org.uk    
+  - name: Villa Vermonte Website
+    url: https://www.villavermonte.com    
+  - name: Regency Cars Website
+    url: https://www.regency-cars.com    
+  - name: Scanner Software Website
+    url: https://www.scannersoftware.co.uk    
+  - name: Taylor Website
+    url: https://www.taylor.org.uk    
+  - name: A1 Steel Website
+    url: https://www.a1steel.co.uk    
     
 
 status-website:
