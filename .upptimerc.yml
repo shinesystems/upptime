@@ -13,6 +13,10 @@ sites:
     url: https://mail.internet-uk.net
   - name: M0VSE Website
     url: https://m0vse.uk
+  - name: wfview Website
+    url: https://wfview.org
+  - name: wfview Forum
+    url: https://forum.wfview.org
   - name: LRS Website
     url: https://g3lrs.org.uk
   - name: LRG Website
