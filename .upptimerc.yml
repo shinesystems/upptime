@@ -3,6 +3,8 @@ owner: shinesystems # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
+  - name: Shine Systems Web Server
+    url: https://shinesystems.co.uk
   - name: Hosted Email Server
     url: https://mail.shinesystems.co.uk
   - name: Email Filtering Appliance
