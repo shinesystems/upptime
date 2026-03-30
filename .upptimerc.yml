@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Shine Systems Web Server
-    url: https://shinesystems.co.uk
+    url: https://www.shinesystems.co.uk
   - name: Hosted Email Server
     url: https://mail.shinesystems.co.uk
   - name: Email Filtering Appliance
