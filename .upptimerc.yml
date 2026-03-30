@@ -11,7 +11,7 @@ sites:
     url: https://efa1.shinesystems.co.uk
   - name: Internet-UK Email
     url: https://mail.internet-uk.net
-  - name: M0VSE Website
+  - name: Phil Personal Website
     url: https://m0vse.uk
   - name: wfview Website
     url: https://wfview.org
@@ -22,7 +22,7 @@ sites:
   - name: LRG Website
     url: https://lrg.org.uk
   - name: Falcon Players Website
-    url: https://m0vse.uk
+    url: https://falconplayers.org
   - name: SPC Website
     url: https://spc-hvac.co.uk    
   - name: Copperad Website
