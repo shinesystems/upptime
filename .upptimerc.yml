@@ -64,7 +64,11 @@ sites:
   - name: Taylor Website
     url: https://www.taylor.org.uk    
   - name: A1 Steel Website
-    url: https://www.a1steel.co.uk    
+    url: https://www.a1steel.co.uk
+  - name: sam.taylor.org.uk
+    url: https://sam.taylor.org.uk
+  - name: sammyt.wtf
+    url: https://sammyt.wtf
     
 
 status-website:
