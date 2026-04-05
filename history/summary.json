@@ -202,19 +202,19 @@
     "url": "https://g3lrs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/g3lrs.org.uk.ico",
     "slug": "lrs-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1261,
-    "timeDay": 1320,
-    "timeWeek": 1261,
-    "timeMonth": 1261,
-    "timeYear": 1261,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 1267,
+    "timeDay": 1353,
+    "timeWeek": 1267,
+    "timeMonth": 1267,
+    "timeYear": 1267,
     "dailyMinutesDown": {
-      "2026-04-05": 1
+      "2026-04-05": 33
     }
   },
   {
