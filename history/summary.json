@@ -178,10 +178,10 @@
     "url": "https://wfview.org",
     "icon": "https://icons.duckduckgo.com/ip3/wfview.org.ico",
     "slug": "wfview-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1209,
@@ -189,7 +189,9 @@
     "timeWeek": 886,
     "timeMonth": 1209,
     "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-22": 1
+    }
   },
   {
     "name": "wfview Forum",
@@ -270,19 +272,19 @@
     "url": "https://spc-hvac.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/spc-hvac.co.uk.ico",
     "slug": "spc-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3284,
-    "timeDay": 1941,
-    "timeWeek": 2733,
-    "timeMonth": 3284,
-    "timeYear": 3284,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 3280,
+    "timeDay": 2333,
+    "timeWeek": 2776,
+    "timeMonth": 3280,
+    "timeYear": 3280,
     "dailyMinutesDown": {
-      "2026-04-22": 1
+      "2026-04-22": 71
     }
   },
   {
