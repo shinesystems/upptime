@@ -22,10 +22,10 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-north-america",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 1351,
@@ -34,6 +34,7 @@
     "timeMonth": 1351,
     "timeYear": 1351,
     "dailyMinutesDown": {
+      "2026-04-28": 1,
       "2026-04-13": 42,
       "2026-04-12": 40
     }
@@ -43,10 +44,10 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-europe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 978,
@@ -55,6 +56,7 @@
     "timeMonth": 978,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2026-04-28": 1,
       "2026-04-13": 42,
       "2026-04-12": 40
     }
@@ -64,10 +66,10 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 1701,
@@ -76,6 +78,7 @@
     "timeMonth": 1701,
     "timeYear": 1701,
     "dailyMinutesDown": {
+      "2026-04-28": 1,
       "2026-04-13": 42,
       "2026-04-12": 40
     }
@@ -85,10 +88,10 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-africa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 1453,
@@ -97,6 +100,7 @@
     "timeMonth": 1453,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2026-04-28": 1,
       "2026-04-13": 42,
       "2026-04-12": 40
     }
@@ -179,11 +183,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wfview.org.ico",
     "slug": "wfview-website",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1160,
     "timeDay": 1100,
     "timeWeek": 893,
