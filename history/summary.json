@@ -512,10 +512,10 @@
     "url": "https://sam.taylor.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/sam.taylor.org.uk.ico",
     "slug": "sam-taylor-org-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
@@ -523,16 +523,18 @@
     "timeWeek": 461,
     "timeMonth": 492,
     "timeYear": 492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-29": 1
+    }
   },
   {
     "name": "sammyt.wtf",
     "url": "https://sammyt.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/sammyt.wtf.ico",
     "slug": "sammyt-wtf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -541,6 +543,8 @@
     "timeWeek": 584,
     "timeMonth": 664,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-29": 0
+    }
   }
 ]
