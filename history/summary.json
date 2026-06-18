@@ -514,11 +514,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sam.taylor.org.uk.ico",
     "slug": "sam-taylor-org-uk",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 476,
     "timeDay": 568,
     "timeWeek": 446,
@@ -535,12 +535,12 @@
     "url": "https://sammyt.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/sammyt.wtf.ico",
     "slug": "sammyt-wtf",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 679,
     "timeDay": 714,
     "timeWeek": 709,
@@ -549,7 +549,8 @@
     "dailyMinutesDown": {
       "2026-04-29": 242,
       "2026-05-24": 95,
-      "2026-05-23": 1130
+      "2026-05-23": 1130,
+      "2026-06-18": 0
     }
   }
 ]
