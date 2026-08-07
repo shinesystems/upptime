@@ -4,11 +4,11 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-web-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "75.28%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "77.46%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.68%",
     "time": 1408,
     "timeDay": 741,
@@ -17,7 +17,8 @@
     "timeYear": 1408,
     "dailyMinutesDown": {
       "2026-08-06": 546,
-      "2026-08-05": 50
+      "2026-08-05": 50,
+      "2026-08-07": 4
     }
   },
   {
@@ -273,18 +274,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/falconplayers.org.ico",
     "slug": "falcon-players-website",
     "status": "down",
-    "uptime": "82.39%",
+    "uptime": "82.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.15%",
-    "uptimeYear": "82.39%",
+    "uptimeMonth": "25.07%",
+    "uptimeYear": "82.38%",
     "time": 1226,
     "timeDay": 827,
     "timeWeek": 958,
     "timeMonth": 2428,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2026-08-07": 191,
+      "2026-08-07": 226,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
