@@ -4,21 +4,22 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-web-server",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "99.70%",
-    "time": 1343,
-    "timeDay": 1098,
-    "timeWeek": 1013,
-    "timeMonth": 1016,
-    "timeYear": 1343,
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "99.69%",
+    "time": 1447,
+    "timeDay": 10237,
+    "timeWeek": 3309,
+    "timeMonth": 1573,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2026-08-06": 546,
       "2026-08-05": 50,
-      "2026-08-07": 97
+      "2026-08-07": 97,
+      "2026-09-05": 5
     }
   },
   {
@@ -26,11 +27,11 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-north-america",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 1155,
     "timeDay": 688,
@@ -40,7 +41,8 @@
     "dailyMinutesDown": {
       "2026-04-12": 40,
       "2026-04-13": 42,
-      "2026-04-28": 81
+      "2026-04-28": 81,
+      "2026-09-05": 4
     }
   },
   {
@@ -48,11 +50,11 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-europe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 781,
     "timeDay": 733,
@@ -62,7 +64,8 @@
     "dailyMinutesDown": {
       "2026-04-12": 40,
       "2026-04-13": 42,
-      "2026-04-28": 82
+      "2026-04-28": 82,
+      "2026-09-05": 3
     }
   },
   {
@@ -70,21 +73,22 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
-    "time": 1628,
-    "timeDay": 1339,
-    "timeWeek": 1377,
-    "timeMonth": 1338,
-    "timeYear": 1628,
+    "time": 1620,
+    "timeDay": 820,
+    "timeWeek": 1242,
+    "timeMonth": 1307,
+    "timeYear": 1620,
     "dailyMinutesDown": {
       "2026-04-12": 40,
       "2026-04-13": 42,
-      "2026-04-28": 82
+      "2026-04-28": 82,
+      "2026-09-05": 2
     }
   },
   {
@@ -92,10 +96,10 @@
     "url": "https://www.shinesystems.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinesystems.co.uk.ico",
     "slug": "shine-systems-from-africa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1354,
@@ -106,7 +110,8 @@
     "dailyMinutesDown": {
       "2026-04-12": 40,
       "2026-04-13": 42,
-      "2026-04-28": 82
+      "2026-04-28": 82,
+      "2026-09-05": 2
     }
   },
   {
@@ -150,12 +155,12 @@
     "url": "https://mail.internet-uk.net",
     "icon": "https://icons.duckduckgo.com/ip3/mail.internet-uk.net.ico",
     "slug": "internet-uk-email",
-    "status": "up",
-    "uptime": "95.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "95.45%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.44%",
+    "uptimeYear": "95.45%",
     "time": 800,
     "timeDay": 1075,
     "timeWeek": 962,
@@ -169,7 +174,8 @@
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
-      "2026-07-17": 810
+      "2026-07-17": 810,
+      "2026-09-05": 1
     }
   },
   {
@@ -274,11 +280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/falconplayers.org.ico",
     "slug": "falcon-players-website",
     "status": "up",
-    "uptime": "82.14%",
+    "uptime": "82.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.42%",
-    "uptimeYear": "82.14%",
+    "uptimeMonth": "76.62%",
+    "uptimeYear": "82.18%",
     "time": 1166,
     "timeDay": 836,
     "timeWeek": 822,
@@ -581,11 +587,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sammyt.wtf.ico",
     "slug": "sammyt-wtf",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.11%",
     "time": 762,
     "timeDay": 796,
     "timeWeek": 785,
