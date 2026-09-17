@@ -280,11 +280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/falconplayers.org.ico",
     "slug": "falcon-players-website",
     "status": "up",
-    "uptime": "83.38%",
+    "uptime": "83.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.38%",
+    "uptimeYear": "83.40%",
     "time": 1145,
     "timeDay": 1006,
     "timeWeek": 862,
@@ -587,11 +587,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sammyt.wtf.ico",
     "slug": "sammyt-wtf",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.08%",
+    "uptimeDay": "85.78%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.08%",
     "time": 778,
     "timeDay": 0,
     "timeWeek": 956,
@@ -604,7 +604,7 @@
       "2026-06-19": 108,
       "2026-06-18": 261,
       "2026-07-05": 201,
-      "2026-09-17": 1
+      "2026-09-17": 205
     }
   }
 ]
